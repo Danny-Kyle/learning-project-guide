@@ -13,5 +13,6 @@ First activity:
 Once you're done reading this, fork this repo\
 Create a branch named "Lastname-firstname"\
 And add your name to this file underneath this line\
+Okechukwu Daniel\
 (N/B) Backslash character is a new line\
 
